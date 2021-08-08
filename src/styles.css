@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin: 0.5rem 1rem;
+  border-radius: 0.8rem;
+  border: 1px solid black;
+}
+
+hr {
+  width: 70%;
+}
+
+.itemHolder {
+  /* background-color: aquamarine; */
+  width: 40%;
+  margin: auto;
+  text-align: left;
+}
+.innerDiv {
+  border: 1px solid rgb(209, 213, 219);
+  border-radius: 0.5rem;
+  padding: 0 1rem;
+  margin: 0.5rem 0;
+}
